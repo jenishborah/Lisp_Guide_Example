@@ -23,7 +23,7 @@ To get started with the Lisp tutorial:
 
 2. Open your preferred text editor or IDE and navigate to the directory where you saved the tutorial files.
 
-3. Open the `first.lisp` file in your text editor or IDE.
+3. Open the `file.lisp` file in your text editor or IDE.
 
 4. Modify the Lisp code or experiment with different inputs if desired.
 
@@ -33,11 +33,11 @@ Follow these steps to run the Lisp program using CLISP:
 
 1. Open a terminal or command prompt on your computer.
 
-2. Navigate to the directory where the `first.lisp` file is located using the `cd` command.
+2. Navigate to the directory where the `file.lisp` file is located using the `cd` command.
 
 3. Run the following command to execute the program:
 
-4. CLISP will interpret the Lisp code in `first.lisp` and execute the program. Any output or errors will be displayed in the terminal.
+4. CLISP will interpret the Lisp code in `file.lisp` and execute the program. Any output or errors will be displayed in the terminal.
 
 ## License
 
